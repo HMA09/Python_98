@@ -1,0 +1,9 @@
+corbalar = ["Tarhana","mercimek","şehriye"]
+
+print("paça"in corbalar)
+print("Tarhana"in corbalar) 
+
+if "paça"in corbalar:
+    print("Menümüzde var")
+else:
+    print("Menümüzde yok")

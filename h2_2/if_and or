@@ -1,0 +1,15 @@
+not1 = 95
+
+
+#if not1>90 :   print("süper")
+#elif not1>50:     print("geçti")
+#else:   print("kaldı")  
+
+not2 = 35
+
+if not2>90 :   print("süper")
+elif not2>80:     print("güzel")
+elif not2>50:     print("geçti")
+else:   print("kaldı")
+
+

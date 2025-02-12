@@ -1,0 +1,13 @@
+a = 7
+
+#if True : print("Çalıştı1")
+#if False : print("Çalıştı2")
+
+#print(a>5)
+#print(a<5)
+
+#if a>3 :   print("a 5 den büyük")
+#if a>5 :   print("a 3 den büyük")   
+
+#if a>3 :   print("a 3 den büyük")
+#elif a>5:     print("a 5 den büyük")
