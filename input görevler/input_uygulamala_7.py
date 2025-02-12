@@ -1,0 +1,5 @@
+print("TÜRKÇE YAZILI NOT HESAPLAMA")
+a=int(input("Türçe 1. Yazılı Notunu Giriniz:"))
+b=int(input("Türçe 2. Yazılı Notunu Giriniz:"))
+c=int(input("Türçe Performans Notunu Giriniz:"))
+print("Ortalama Notu:", (a+b+c)/3)
